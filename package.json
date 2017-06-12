@@ -1,5 +1,5 @@
 {
-  "name": "socket-ipc",
+  "name": "dk-socket-ipc",
   "version": "1.0.0",
   "description": "Message-based communications over UNIX sockets",
   "main": "index.js",
@@ -8,16 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jcoreio/socket-ipc.git"
+    "url": "git+https://github.com/dkuzmenchuk/dk-socket-ipc.git"
   },
   "keywords": [
     "sockets",
     "IPC"
   ],
-  "author": "Jason McLaurin",
-  "license": "Apache-2.0",
+  "author": "Denis Kuzmenchuk",
   "bugs": {
-    "url": "https://github.com/jcoreio/socket-ipc/issues"
+    "url": "https://github.com/dkuzmenchuk/dk-socket-ipc/issues"
   },
-  "homepage": "https://github.com/jcoreio/socket-ipc#readme"
+  "homepage": "https://github.com/dkuzmenchuk/dk-socket-ipc#readme"
 }
