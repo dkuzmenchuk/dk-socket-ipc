@@ -40,7 +40,6 @@ MessageCodec.prototype.encode = function(data) {
  * @returns {Array} Array of buffers containing decoded messages.
  */
 MessageCodec.prototype.decode = function(srcBuffer, onMessage) {
-    console.log(srcBuffer);
     let binary = this._binary;
     let srcPos = 0;
     while (srcPos < srcBuffer.length) {
